@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Returns list of pascal triangles"""
 
@@ -25,4 +24,3 @@ def pascal_triangle(n):
             new_list.append(1)
             list_of_lists.append(new_list)
     return list_of_lists
-
