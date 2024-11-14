@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-""" fx open and adding  """
+"""Are you documented ?"""
 
 
 def append_write(filename="", text=""):
-    """ adding text"""
+    """How far """
     with open(filename, 'a+') as f:
         return f.write(text)
-
