@@ -1,6 +1,5 @@
-
 #!/usr/bin/python3
-"""display arguments match condition """
+"""Script that takes in arguments."""
 
 
 from sys import argv
@@ -18,4 +17,3 @@ if __name__ == "__main__":
             print(i)
     cursor.close()
     db.close()
-
