@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Add Louisiana to a DB."""
 

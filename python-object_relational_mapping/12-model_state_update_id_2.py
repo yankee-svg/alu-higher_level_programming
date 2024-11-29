@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Changes the name of the state object."""
 
