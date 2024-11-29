@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """List all states from the databse."""
 
@@ -16,4 +15,3 @@ if __name__ == "__main__":
         print(i)
     cursor.close()
     db.close()
-
